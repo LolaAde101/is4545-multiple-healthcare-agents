@@ -1,0 +1,6 @@
+{
+  "name": "Clinical AI Virtual-Office Portal",
+  "description": "Clinical virtual-office portal featuring four specialized AI agents for patient feedback, experience monitoring, complaint triage, and managerial decision support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
